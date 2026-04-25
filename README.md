@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="680" alt="DRH - Dice Studio Pro banner" src="docs/media/Logo.png" />
+  <img width="680" alt="DRH - Dice Studio banner" src="docs/media/Logo.png" />
 </div>
 
 <br>
 
 <div align="center">
 
-# DRH - Dice Studio Pro
+# DRH - Dice Studio
 
 ### Public Support Hub · Documentation · Feedback · Pre-release Validation
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-**DRH - Dice Studio Pro** helps Blender users create dice assets for tabletop, RPG, board game, render, prototype, and custom dice workflows.
+**DRH - Dice Studio** helps Blender users create dice assets for tabletop, RPG, board game, render, prototype, and custom dice workflows.
 
 This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and community validation before marketplace release.
 
@@ -54,7 +54,7 @@ This repository is the central public hub for support, documentation, issue trac
 
 - [Overview](#overview)
 - [Media preview](#media-preview)
-- [What DRH - Dice Studio Pro does](#what-drh---dice-studio-pro-does)
+- [What DRH - Dice Studio does](#what-drh---dice-studio-pro-does)
 - [Key features](#key-features)
 - [Full feature list](#full-feature-list)
 - [Who is it for?](#who-is-it-for)
@@ -75,11 +75,11 @@ This repository is the central public hub for support, documentation, issue trac
 
 ## Overview
 
-**DRH - Dice Studio Pro** is a Blender workflow utility designed to help users generate customizable dice assets directly inside Blender.
+**DRH - Dice Studio** is a Blender workflow utility designed to help users generate customizable dice assets directly inside Blender.
 
 It is intended for tabletop creators, dice makers, D&D and RPG artists, board game creators, game artists, 3D printing users, prop designers, product visualization artists, and Blender users who need dice models for renders, asset packs, tabletop scenes, prototypes, or stylized collections.
 
-Instead of modeling every die manually from scratch, DRH - Dice Studio Pro helps turn dice creation into a faster, more adjustable, and repeatable workflow.
+Instead of modeling every die manually from scratch, DRH - Dice Studio helps turn dice creation into a faster, more adjustable, and repeatable workflow.
 
 ## Media preview
 
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="DRH - Dice Studio Pro demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
+    <img width="720" alt="DRH - Dice Studio demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
   </a>
   <br>
   <sub>Click the image to watch the demo on YouTube.</sub>
@@ -109,7 +109,7 @@ https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
 Recommended size: 1280x720 or 960x540.
 
 <div align="center">
-  <img width="720" alt="DRH - Dice Studio Pro quick demo" src="docs/media/dice-studio-pro-demo.gif" />
+  <img width="720" alt="DRH - Dice Studio quick demo" src="docs/media/dice-studio-pro-demo.gif" />
 </div>
 -->
 
@@ -147,7 +147,7 @@ Recommended size: 1280x720 or 960x540.
 Use this section if you want one large image instead of a gallery.
 
 <div align="center">
-  <img width="760" alt="DRH - Dice Studio Pro preview" src="docs/media/dice-studio-pro-preview.png" />
+  <img width="760" alt="DRH - Dice Studio preview" src="docs/media/dice-studio-pro-preview.png" />
 </div>
 -->
 
@@ -163,9 +163,9 @@ Media preview coming soon.
 
 ---
 
-## What DRH - Dice Studio Pro does
+## What DRH - Dice Studio does
 
-DRH - Dice Studio Pro helps you create, customize, and refine dice assets directly inside Blender.
+DRH - Dice Studio helps you create, customize, and refine dice assets directly inside Blender.
 
 It is not only a simple dice preset tool. It is designed as a workflow helper for generating dice meshes, selecting dice types, configuring body shape, adjusting labels, choosing relief style, applying color presets, and preparing dice variations for creative or production use.
 
@@ -339,7 +339,7 @@ Use it to:
 
 ## Who is it for?
 
-DRH - Dice Studio Pro is designed for:
+DRH - Dice Studio is designed for:
 
 - Tabletop creators
 - Dice makers
@@ -365,7 +365,7 @@ DRH - Dice Studio Pro is designed for:
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | In development before public marketplace release |
-| **Support repository** | [DRH Dice Studio Pro Support](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support) |
+| **Support repository** | [DRH Dice Studio Support](https://github.com/pacosalasv/DRH_dice_studio-Support) |
 
 This add-on is currently in development. Compatibility feedback, usability comments, feature expectations, and workflow suggestions are welcome before public release.
 
@@ -410,12 +410,12 @@ Useful feedback examples:
 
 ## Quick links
 
-- [Support repository](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support)
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/issues/new?template=compatibility_issue.yml)
+- [Support repository](https://github.com/pacosalasv/DRH_dice_studio-Support)
+- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_dice_studio-Support/discussions)
+- [Open a new issue](https://github.com/pacosalasv/DRH_dice_studio-Support/issues/new/choose)
+- [Report a bug](https://github.com/pacosalasv/DRH_dice_studio-Support/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/pacosalasv/DRH_dice_studio-Support/issues/new?template=feature_request.yml)
+- [Report a compatibility issue](https://github.com/pacosalasv/DRH_dice_studio-Support/issues/new?template=compatibility_issue.yml)
 
 ---
 
