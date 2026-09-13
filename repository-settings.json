@@ -1,0 +1,17 @@
+{
+  "description": "Support and documentation for DRH - Dice Forge, a Blender dice-generation toolkit currently in development.",
+  "homepage": "https://github.com/pacosalasv/DRH_Dice_Studio-Support",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "dice",
+    "procedural-modeling",
+    "tabletop",
+    "3d-modeling",
+    "technical-support",
+    "drh"
+  ]
+}
