@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img width="680" alt="DRH - Dice Forge banner" src="docs/media/Logo.png" />
 </div>
 
@@ -8,9 +8,9 @@
 
 # DRH - Dice Forge
 
-### Public Support Hub · Documentation · Feedback · Development On-Hold
+### Support · Documentation · Feedback · Development On-Hold
 
-**Mesh-only dice generation for tabletop and custom polyhedral dice workflows.**
+Mesh-only dice generation for tabletop and custom polyhedral dice workflows.
 
 ![Status](https://img.shields.io/badge/status-In%20Development%20%5BOn-Hold%5D-7C3AED?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
@@ -19,7 +19,7 @@
 
 <br>
 
-**Part of the DRH Add-ons ecosystem - Blender tools, updates, and releases.**
+DRH Blender Tools: support, documentation, and release information.
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
@@ -29,68 +29,23 @@
 
 <div align="center">
 
-**DRH - Dice Forge** helps Blender users create dice assets for tabletop, RPG, board game, render, prototype, and custom dice workflows.
+DRH - Dice Forge helps Blender users create dice assets for tabletop, RPG, board game, render, prototype, and custom dice workflows.
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback and future development updates while active development is on hold.
-
-</div>
-
----
-
-## Support DRH Development
-
-If **DRH - Dice Forge** helps you work faster or makes your Blender workflow more reliable, you can support ongoing DRH development on **Ko-fi**. Your contribution helps fund maintenance, Blender compatibility updates, documentation, testing, and the development of new production-focused tools across the DRH ecosystem. Support is completely optional, and bug reports, compatibility feedback, and workflow suggestions are always welcome.
-
-<div align="center">
-  <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Donate on Ko-fi to support DRH" src="docs/media/kofi_donate.png" />
-  </a>
-</div>
-
-<div align="center">
-
-[**Support DRH on Ko-fi**](https://ko-fi.com/pacosalasv)
+This repository tracks documentation, support, compatibility reports, and development notes while active development is on hold.
 
 </div>
-
----
-
-<details>
-  <summary><strong>📚 Table of Contents</strong></summary>
-
-## Menu
-
-- [Overview](#overview)
-- [Media preview](#media-preview)
-- [What DRH - Dice Forge does](#what-drh---dice-studio-pro-does)
-- [Key features](#key-features)
-- [Full feature list](#full-feature-list)
-- [Who is it for?](#who-is-it-for)
-- [Current status](#current-status)
-- [Feedback and compatibility reports](#feedback-and-compatibility-reports)
-- [Quick links](#quick-links)
-- [Before you post](#before-you-post)
-- [Where to post](#where-to-post)
-- [Support policy](#support-policy)
-- [Technical notes](#technical-notes)
-- [Availability](#availability)
-- [Documentation](#documentation)
-- [LICENSE](#LICENSE)
-
-</details>
 
 ---
 
 ## Overview
 
-**DRH - Dice Forge** is a Blender workflow utility designed to help users generate customizable dice assets directly inside Blender.
+DRH - Dice Forge is a Blender workflow utility designed to help users generate customizable dice assets directly inside Blender.
 
 It is intended for tabletop creators, dice makers, D&D and RPG artists, board game creators, game artists, 3D printing users, prop designers, product visualization artists, and Blender users who need dice models for renders, asset packs, tabletop scenes, prototypes, or stylized collections.
 
 Instead of modeling every die manually from scratch, DRH - Dice Forge helps turn dice creation into a faster, more adjustable, and repeatable workflow.
 
 ## Media preview
-
 
 ### Screenshots
 
@@ -103,7 +58,6 @@ Instead of modeling every die manually from scratch, DRH - Dice Forge helps turn
 </div>
 
 
-
 ---
 
 ## What DRH - Dice Forge does
@@ -114,34 +68,38 @@ It is not only a simple dice preset tool. It is designed as a workflow helper fo
 
 Use it to:
 
-- Generate dice assets faster
-- Create core RPG dice and specialty dice
-- Configure dice body shape, bevels, and roundness
-- Add labels, numbers, symbols, text, or blank faces
-- Choose between engraved-style and raised-style label relief
-- Adjust label scale, depth, twist, and offset
-- Apply predefined or custom color presets
-- Control label ordering
-- Build dice variations for tabletop scenes, renders, prototypes, or asset packs
+| Details |
+|---|
+| Generate dice assets faster |
+| Create core RPG dice and specialty dice |
+| Configure dice body shape, bevels, and roundness |
+| Add labels, numbers, symbols, text, or blank faces |
+| Choose between engraved-style and raised-style label relief |
+| Adjust label scale, depth, twist, and offset |
+| Apply predefined or custom color presets |
+| Control label ordering |
+| Build dice variations for tabletop scenes, renders, prototypes, or asset packs |
 
 ---
 
-### Key Features
+### Capabilities
 
-- One-click generation of customizable dice meshes directly in Blender
-- Broad die coverage across core RPG, specialty, and custom generators
-- Deep body-shaping controls for premium-looking dice forms
-- Flexible label system for numbers, symbols, text, and blank faces
-- Engraved or raised face relief for game-ready and render-ready results
-- Built-in color presets plus custom color control
-- Label ordering tools for standard, intercalated, or randomized numbering
-- Useful for tabletop sets, board-game prototypes, asset packs, and product renders
+| Details |
+|---|
+| One-click generation of customizable dice meshes directly in Blender |
+| Broad die coverage across core RPG, specialty, and custom generators |
+| Deep body-shaping controls for premium-looking dice forms |
+| Flexible label system for numbers, symbols, text, and blank faces |
+| Engraved or raised face relief for game-ready and render-ready results |
+| Built-in color presets plus custom color control |
+| Label ordering tools for standard, intercalated, or randomized numbering |
+| Useful for tabletop sets, board-game prototypes, asset packs, and product renders |
 ---
 
 <details>
-  <summary><strong>🧩 Full feature list</strong></summary>
+  <summary>Feature reference</summary>
 
-## Full feature list
+## Feature reference
 
 ### Dice Generation
 
@@ -149,128 +107,135 @@ Use it to:
 - In-scene dice creation workflow
 - Reusable dice assets for packs, renders, and prototypes
 
-### Core RPG Dice
+### Core RPG dice
+| Details |
+|---|
+| D2 [Coin] |
+| D2 [Roller Shape] |
+| D4 [Tetrahedron] |
+| D4 [Corner Numbers] |
+| D6 [Cube] |
+| D8 [Octahedron] |
+| D10 [Diamond] |
+| D12 [Dodecahedron] |
+| D20 [Icosahedron] |
+| D100 [50-gonal Bipyramid] |
 
-- D2 [Coin]
-- D2 [Roller Shape]
-- D4 [Tetrahedron]
-- D4 [Corner Numbers]
-- D6 [Cube]
-- D8 [Octahedron]
-- D10 [Diamond]
-- D12 [Dodecahedron]
-- D20 [Icosahedron]
-- D100 [50-gonal Bipyramid]
+### Specialty dice
+| Details |
+|---|
+| D1 [Rod] |
+| D3 [Capped Long Die] |
+| D5 [Triangular Gem] |
+| D7 [Rounded Long Die] |
+| D9 [Rounded Long Die] |
+| D11 [Rounded Long Die] |
+| D13 [Capped Long Die] |
+| D14 [Diamond] |
+| D15 [Capped Long Die] |
+| D16 [Octagonal Bipyramid] |
+| D17 [Capped Long Die] |
+| D18 [Diamond] |
+| D19 [Capped Long Die] |
+| D21 [Capped Long Die] |
+| D22 [Diamond] |
+| D23 [Capped Long Die] |
+| D24 [Tetrakis Hexahedron] |
+| D25 [Capped Long Die] |
+| D26 [Diamond] |
+| D27 [Capped Long Die] |
+| D28 [Tetradecagonal Bipyramid] |
+| D29 [Capped Long Die] |
+| D30 [Rhombic Triacontahedron] |
+| D50 [25-gonal Bipyramid] |
 
-### Specialty Dice
+### Custom dice generators
+| Details |
+|---|
+| Prism |
+| Antiprism |
+| Bipyramid |
+| Capped Long Die |
+| Pyramid |
+| Coin |
+| UV Sphere |
+| Octahedron |
+| Icosahedron |
+| Diamond [Bipyramid] |
 
-- D1 [Rod]
-- D3 [Capped Long Die]
-- D5 [Triangular Gem]
-- D7 [Rounded Long Die]
-- D9 [Rounded Long Die]
-- D11 [Rounded Long Die]
-- D13 [Capped Long Die]
-- D14 [Diamond]
-- D15 [Capped Long Die]
-- D16 [Octagonal Bipyramid]
-- D17 [Capped Long Die]
-- D18 [Diamond]
-- D19 [Capped Long Die]
-- D21 [Capped Long Die]
-- D22 [Diamond]
-- D23 [Capped Long Die]
-- D24 [Tetrakis Hexahedron]
-- D25 [Capped Long Die]
-- D26 [Diamond]
-- D27 [Capped Long Die]
-- D28 [Tetradecagonal Bipyramid]
-- D29 [Capped Long Die]
-- D30 [Rhombic Triacontahedron]
-- D50 [25-gonal Bipyramid]
-
-### Custom Dice Generators
-
-- Prism
-- Antiprism
-- Bipyramid
-- Capped Long Die
-- Pyramid
-- Coin
-- UV Sphere
-- Octahedron
-- Icosahedron
-- Diamond [Bipyramid]
-
-### Body & Geometry
-
-- Size controls
-- Height ratio controls
-- Bevel radius controls
-- Bevel segment controls
-- Round segment controls
-- Geometry family: Classic
-- Geometry family: Crystal
-- Geometry family: Shard
-- Crystal top shaping
-- Crystal bottom shaping
-- Crystal base shaping
-- Layout modes for face arrangement
+### Body and geometry
+| Details |
+|---|
+| Size controls |
+| Height ratio controls |
+| Bevel radius controls |
+| Bevel segment controls |
+| Round segment controls |
+| Geometry family: Classic |
+| Geometry family: Crystal |
+| Geometry family: Shard |
+| Crystal top shaping |
+| Crystal bottom shaping |
+| Crystal base shaping |
+| Layout modes for face arrangement |
 
 ### Labels
 
-- Numbers
-- Percentages
-- Roman Numbers
-- Letters
-- Custom Text
-- Dots
-- Triangles
-- Squares
-- Diamonds
-- Hexagons
-- Stars
-- Hearts
-- Crosses
-- Arrows
-- Blank faces
-- Number range modes
-- Number step modes
-- Custom multiple labels
-- D4 corner numbering support
-- Ambiguous 6/9 marking options
-- Label order: Standard
-- Label order: Intercalate
-- Label order: Randomize
-- Text presets for Yes / No
-- Text presets for Yes / No / Maybe
-- Text presets for Heads / Tails
-- Text presets for True / False
-- Text presets for Success / Fail
-- Text presets for Advantage-style sets
-- Custom text preset workflow
+| Details |
+|---|
+| Numbers |
+| Percentages |
+| Roman Numbers |
+| Letters |
+| Custom Text |
+| Dots |
+| Triangles |
+| Squares |
+| Diamonds |
+| Hexagons |
+| Stars |
+| Hearts |
+| Crosses |
+| Arrows |
+| Blank faces |
+| Number range modes |
+| Number step modes |
+| Custom multiple labels |
+| D4 corner numbering support |
+| Ambiguous 6/9 marking options |
+| Label order: Standard |
+| Label order: Intercalate |
+| Label order: Randomize |
+| Text presets for Yes / No |
+| Text presets for Yes / No / Maybe |
+| Text presets for Heads / Tails |
+| Text presets for True / False |
+| Text presets for Success / Fail |
+| Text presets for Advantage-style sets |
+| Custom text preset workflow |
 
-### Relief & Placement
+### Relief and placement
+| Details |
+|---|
+| Engraved-style labels |
+| Raised-style labels |
+| Label scale control |
+| Label depth control |
+| Label twist control |
+| Label offset control |
+| Font selection support |
 
-- Engraved-style labels
-- Raised-style labels
-- Label scale control
-- Label depth control
-- Label twist control
-- Label offset control
-- Font selection support
+### Color workflow
+| Details |
+|---|
+| Built-in color presets |
+| Preset preview thumbnails |
+| Custom body color |
+| Custom label color |
+| Swap body and label colors |
+| Apply colors to selected dice |
 
-### Color Workflow
-
-- Built-in color presets
-- Preset preview thumbnails
-- Custom body color
-- Custom label color
-- Swap body and label colors
-- Apply colors to selected dice
-
-### Workflow & UI
-
+### Workflow and UI
 - Reset defaults
 - Settings popup
 - Preferences access
@@ -280,181 +245,39 @@ Use it to:
 
 ---
 
-## Who is it for?
+## Intended users
 
 DRH - Dice Forge is designed for:
 
-- Tabletop creators
-- Dice makers
-- D&D and RPG artists
-- Board game creators
-- Game artists
-- Prop designers
-- 3D printing users
-- Product visualization artists
-- Fantasy scene artists
-- Blender asset creators
-- Marketplace asset creators
-- Users who need reusable dice assets, dice sets, prototypes, or tabletop props
+| Details |
+|---|
+| Tabletop creators |
+| Dice makers |
+| D&D and RPG artists |
+| Board game creators |
+| Game artists |
+| Prop designers |
+| 3D printing users |
+| Product visualization artists |
+| Fantasy scene artists |
+| Blender asset creators |
+| Marketplace asset creators |
+| Users who need reusable dice assets, dice sets, prototypes, or tabletop props |
 
 ---
 
-## Current status
+## Status
 
 | Item | Details |
 |---|---|
-| **Status** | 🟣 In Development [On-Hold] |
-| **Current version** | 1.0.0 |
-| **Minimum Blender version** | 4.2.0 |
-| **Platforms** | Windows, macOS, Linux |
-| **Release type** | In development before public marketplace release |
-| **Support repository** | [DRH Dice Forge Support](https://github.com/pacosalasv/DRH_Dice_Studio-Support) |
+| Status | 🟣 In Development [On-Hold] |
+| Current version | 1.0.0 |
+| Minimum Blender version | 4.2.0 |
+| Platforms | Windows, macOS, Linux |
+| Release type | In development before public marketplace release |
+| Support repository | [DRH Dice Forge Support](https://github.com/pacosalasv/DRH_Dice_Studio-Support) |
 
 This add-on is currently in development. Compatibility feedback, usability comments, feature expectations, and workflow suggestions are welcome before public release.
-
----
-
-## Feedback and compatibility reports
-
-This repository is open for public feedback before marketplace release.
-
-Feedback is especially welcome on:
-
-- Feature usefulness
-- Dice type expectations
-- Label and marking workflows
-- Label relief behavior
-- Label ordering options
-- Body shape controls
-- Color preset expectations
-- Tabletop and RPG use cases
-- 3D printing workflow expectations
-- Compatibility concerns
-- Installation experience
-- Documentation clarity
-- Expected pricing
-- Marketplace expectations
-
-Useful feedback examples:
-
-> “I would use this to generate a full tabletop dice set.”
-
-> “I need specialty dice for custom board game prototypes.”
-
-> “I need clear number labels that remain readable in renders.”
-
-> “This should support custom symbols for fantasy dice.”
-
-> “The relief controls should work well for both raised and engraved labels.”
-
-> “This would be useful if the generated meshes are easy to prepare for 3D printing.”
-
----
-
-## Quick links
-
-- [Support repository](https://github.com/pacosalasv/DRH_Dice_Studio-Support)
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Dice_Studio-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new?template=compatibility_issue.yml)
-
----
-
-## Before you post
-
-Please include as much of the following information as possible:
-
-- Add-on version
-- Blender version
-- Operating system
-- Installation method
-- Clear steps to reproduce
-- Expected result
-- Actual result
-- Error message, screenshot, or console output when available
-
-For compatibility issues, please also include:
-
-- Blender build type, if known
-- Portable or installed Blender version
-- Whether the issue happens with a clean Blender configuration
-- Dice type involved, if relevant
-- Label type involved, if relevant
-- Relief type involved, if relevant
-- Color preset involved, if relevant
-- Whether the issue involves mesh generation, labels, relief, body controls, color presets, export, or 3D printing preparation
-- Scene complexity, if relevant
-
----
-
-## Use Discussions for
-
-- Questions
-- How-to topics
-- Installation help
-- Compatibility checks
-- FAQ
-- Suggestions
-- development feedback
-- Pricing feedback
-- Workflow ideas
-
----
-
-## Use Issues for
-
-- Confirmed bugs
-- Reproducible compatibility problems
-- Dice generation problems
-- Label or marking problems
-- Relief or mesh issues
-- Body control issues
-- Color preset issues
-- Feature requests
-- Regressions
-- Marketplace or listing-related problems
-- Documentation errors
-
----
-
-## Where to post
-
-Open a **Discussion** for:
-
-- General questions
-- Setup help
-- Workflow advice
-- Suggestions
-- Early feedback
-
-Open an **Issue** for:
-
-- Confirmed bugs
-- Reproducible compatibility problems
-- Dice generation failures
-- Label, relief, material, color, body control, or mesh problems
-- Regressions
-- Feature requests
-- Documentation problems
-
----
-
-## Support policy
-
-This repository is a public support hub.
-
-Do not post:
-
-- Private account details
-- LICENSE keys
-- Payment information
-- Confidential production files
-- Private client files
-- Sensitive system information
-
-If a private file is required to reproduce an issue, please describe the problem first and wait for further instructions.
 
 ---
 
@@ -479,12 +302,14 @@ This add-on may be available through multiple marketplaces and storefronts after
 
 This GitHub repository remains the central public location for:
 
-- Support
-- Documentation
-- Issue tracking
-- Compatibility reports
-- Public feedback
-- Release notes
+| Details |
+|---|
+| Support |
+| Documentation |
+| Issue tracking |
+| Compatibility reports |
+| Public feedback |
+| Release notes |
 
 ---
 
@@ -495,20 +320,23 @@ This GitHub repository remains the central public location for:
 
 ---
 
-## LICENSE
 
-This repository is distributed under **GPL-3.0-or-later**.
+## Support
+
+Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Dice_Studio-Support/discussions) for setup questions, workflow guidance, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
+
+Do not post credentials, payment information, license keys, confidential production files, private client material, or sensitive local paths.
+
+Detailed guidance is available in [SUPPORT.md](SUPPORT.md).
+
+## Support DRH development
+
+Development support is optional. Contributions through [Ko-fi](https://ko-fi.com/pacosalasv) help cover maintenance, Blender compatibility work, documentation, and testing.
+
+## License
+
+This repository is distributed under GPL-3.0-or-later.
 
 ---
 
 <div align="center">
-
-### DRH Add-ons
-
-**Blender tools, updates, and releases.**
-
-Built for clean workflows, practical utilities, and production-friendly Blender setups.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-
-</div>
