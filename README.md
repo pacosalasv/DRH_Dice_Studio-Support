@@ -6,11 +6,9 @@
 
 **Mesh-only dice generation for tabletop and custom polyhedral dice workflows**
 
-![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-Windows%2C%20macOS%2C%20Linux-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Development status](https://img.shields.io/badge/Development%20status-View-64748B?style=for-the-badge)](#product-status) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -44,24 +42,26 @@ The repository remains available for documentation and feedback while active dev
 
 ## Media
 
-| Preview | Preview |
-|---|---|
-| <img width="420" alt="DRH - Dice Forge Screenshot 1" src="docs/media/ScreenShot_01.png" /> |  |
+Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
+
+<div align="center">
+  <img width="420" alt="DRH - Dice Forge ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+</div>
 
 ## Product reference
 
 <details>
 <summary>Open detailed feature reference</summary>
 
-## Feature reference
+### Feature reference
 
-### Dice Generation
+#### Dice Generation
 
 - Mesh-based dice generation
 - In-scene dice creation workflow
 - Reusable dice assets for packs, renders, and prototypes
 
-### Core RPG dice
+#### Core RPG dice
 | Details |
 |---|
 | D2 [Coin] |
@@ -75,7 +75,7 @@ The repository remains available for documentation and feedback while active dev
 | D20 [Icosahedron] |
 | D100 [50-gonal Bipyramid] |
 
-### Specialty dice
+#### Specialty dice
 | Details |
 |---|
 | D1 [Rod] |
@@ -103,7 +103,7 @@ The repository remains available for documentation and feedback while active dev
 | D30 [Rhombic Triacontahedron] |
 | D50 [25-gonal Bipyramid] |
 
-### Custom dice generators
+#### Custom dice generators
 | Details |
 |---|
 | Prism |
@@ -117,7 +117,7 @@ The repository remains available for documentation and feedback while active dev
 | Icosahedron |
 | Diamond [Bipyramid] |
 
-### Body and geometry
+#### Body and geometry
 | Details |
 |---|
 | Size controls |
@@ -133,7 +133,7 @@ The repository remains available for documentation and feedback while active dev
 | Crystal base shaping |
 | Layout modes for face arrangement |
 
-### Labels
+#### Labels
 
 | Details |
 |---|
@@ -168,7 +168,7 @@ The repository remains available for documentation and feedback while active dev
 | Text presets for Advantage-style sets |
 | Custom text preset workflow |
 
-### Relief and placement
+#### Relief and placement
 | Details |
 |---|
 | Engraved-style labels |
@@ -179,7 +179,7 @@ The repository remains available for documentation and feedback while active dev
 | Label offset control |
 | Font selection support |
 
-### Color workflow
+#### Color workflow
 | Details |
 |---|
 | Built-in color presets |
@@ -189,7 +189,7 @@ The repository remains available for documentation and feedback while active dev
 | Swap body and label colors |
 | Apply colors to selected dice |
 
-### Workflow and UI
+#### Workflow and UI
 - Reset defaults
 - Settings popup
 - Preferences access
@@ -201,20 +201,15 @@ The repository remains available for documentation and feedback while active dev
 
 | Resource | Link |
 |---|---|
-| User manual | [User manual](docs/manual/user-manual.pdf) |
-| Support guide | [Support guide](SUPPORT.md) |
-| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
-| Product changelog | [Product changelog](CHANGELOG.md) |
-| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Dice_Studio-Support/discussions) |
-| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues/new/choose) |
+| Support guide | [SUPPORT.md](SUPPORT.md) |
+| User manual | [PDF manual](docs/manual/user-manual.pdf) |
+| Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
+| Issues | [Open or review issues](https://github.com/pacosalasv/DRH_Dice_Studio-Support/issues) |
+| Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/DRH_Dice_Studio-Support/discussions) |
 
-Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+## Support development
 
-Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
-
-## Support DRH development
-
-If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -222,13 +217,13 @@ If this project or another free DRH tool saves you time, optional Ko-fi support 
   </a>
 </div>
 
-## DRH ecosystem
+## Ecosystem
 
 | Destination | Link |
 |---|---|
-| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
